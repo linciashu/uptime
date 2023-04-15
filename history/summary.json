@@ -1,20 +1,22 @@
 [
   {
     "name": "reader",
-    "url": "reader-jscb.onrender.com",
+    "url": "$site_main",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "reader",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.79%",
+    "uptimeDay": "99.79%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.79%",
     "time": 252,
     "timeDay": 252,
     "timeWeek": 252,
     "timeMonth": 252,
     "timeYear": 252,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-04-15": 0
+    }
   }
 ]
