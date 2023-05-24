@@ -4,19 +4,19 @@
     "url": "$SITE_MAIN",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "reader",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 243,
-    "timeDay": 250,
-    "timeWeek": 221,
-    "timeMonth": 247,
-    "timeYear": 243,
+    "status": "up",
+    "uptime": "99.87%",
+    "uptimeDay": "95.09%",
+    "uptimeWeek": "99.30%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.87%",
+    "time": 240,
+    "timeDay": 195,
+    "timeWeek": 210,
+    "timeMonth": 244,
+    "timeYear": 240,
     "dailyMinutesDown": {
-      "2023-05-24": 0
+      "2023-05-24": 71
     }
   }
 ]
