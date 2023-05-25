@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "reader",
     "status": "up",
-    "uptime": "99.87%",
+    "uptime": "99.88%",
     "uptimeDay": "95.09%",
     "uptimeWeek": "99.30%",
     "uptimeMonth": "99.84%",
-    "uptimeYear": "99.87%",
-    "time": 240,
-    "timeDay": 195,
-    "timeWeek": 210,
-    "timeMonth": 244,
-    "timeYear": 240,
+    "uptimeYear": "99.88%",
+    "time": 238,
+    "timeDay": 148,
+    "timeWeek": 200,
+    "timeMonth": 242,
+    "timeYear": 238,
     "dailyMinutesDown": {
       "2023-05-24": 71
     }
