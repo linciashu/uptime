@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "reader",
     "status": "down",
-    "uptime": "5.60%",
+    "uptime": "5.59%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 211,
-    "timeDay": 267,
-    "timeWeek": 231,
-    "timeMonth": 233,
+    "time": 212,
+    "timeDay": 355,
+    "timeWeek": 256,
+    "timeMonth": 238,
     "timeYear": 209,
     "dailyMinutesDown": {
-      "2025-11-12": 78,
+      "2025-11-13": 79,
+      "2025-11-12": 1440,
       "2025-11-11": 1440,
       "2025-11-10": 1440,
       "2025-11-09": 1440,
@@ -379,8 +380,7 @@
       "2024-11-17": 1440,
       "2024-11-16": 1440,
       "2024-11-15": 1440,
-      "2024-11-14": 1440,
-      "2024-11-13": 1440
+      "2024-11-14": 1440
     }
   }
 ]
